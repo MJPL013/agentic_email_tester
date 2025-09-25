@@ -1,0 +1,18 @@
+# Core LangChain framework
+langchain
+langgraph
+langchain-openai
+
+# Environment variable management
+python-dotenv
+
+# HTTP requests for custom tools
+requests
+
+# Tavily Search API client
+tavily-python
+
+# Data validation and structured outputs
+pydantic
+
+sendgrid
