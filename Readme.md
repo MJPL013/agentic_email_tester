@@ -9,6 +9,7 @@ An advanced Python application that uses multiple AI agents (Researcher, Strateg
 ### 🔧 **Dual Operating Modes**
 - **Demo Mode**: Generate and save emails locally for review
 - **Real Mode**: Generate and immediately send emails via SendGrid
+- **Manual Demo Mode**: Manually provide email & product, send via SendGrid
 
 ### 📁 **File Management System**
 - Automatic saving of generated emails with timestamps
@@ -233,13 +234,7 @@ The application includes robust error handling for:
 - Ensure Ollama is running with llama3.2
 - Verify localhost:11434 is accessible
 
-## 📞 Support
 
-For issues or questions:
-1. Check the troubleshooting section
-2. Review log files for detailed errors
-3. Verify all prerequisites are installed
-4. Ensure API keys have proper permissions
 
 ---
 
